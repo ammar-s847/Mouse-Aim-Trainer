@@ -15,7 +15,9 @@ run = True
 clock = pygame.time.Clock()
 
 # Colours
-
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+ORANGE = (255, 128, 0)
 
 # Classes
 
